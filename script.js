@@ -9,7 +9,6 @@ function boop() {
     setTimeout('o.stop(0)',250);
 }
 
-
 window.onload = function () {
     var mediaRecorder;
     var parts = [];
